@@ -1,0 +1,10 @@
+C:\Users\Alex\source\repos\GraphicLab6\GraphicLab6\bin\Debug\GraphicLab6.exe.config
+C:\Users\Alex\source\repos\GraphicLab6\GraphicLab6\bin\Debug\GraphicLab6.exe
+C:\Users\Alex\source\repos\GraphicLab6\GraphicLab6\bin\Debug\GraphicLab6.pdb
+C:\Users\Alex\source\repos\GraphicLab6\GraphicLab6\obj\Debug\GraphicLab6.csprojAssemblyReference.cache
+C:\Users\Alex\source\repos\GraphicLab6\GraphicLab6\obj\Debug\GraphicLab6.Form1.resources
+C:\Users\Alex\source\repos\GraphicLab6\GraphicLab6\obj\Debug\GraphicLab6.Properties.Resources.resources
+C:\Users\Alex\source\repos\GraphicLab6\GraphicLab6\obj\Debug\GraphicLab6.csproj.GenerateResource.cache
+C:\Users\Alex\source\repos\GraphicLab6\GraphicLab6\obj\Debug\GraphicLab6.csproj.CoreCompileInputs.cache
+C:\Users\Alex\source\repos\GraphicLab6\GraphicLab6\obj\Debug\GraphicLab6.exe
+C:\Users\Alex\source\repos\GraphicLab6\GraphicLab6\obj\Debug\GraphicLab6.pdb

@@ -1,0 +1,10 @@
+C:\Users\Alex\source\repos\GraphicLab8\GraphicLab8\bin\Debug\GraphicLab8.exe.config
+C:\Users\Alex\source\repos\GraphicLab8\GraphicLab8\bin\Debug\GraphicLab8.exe
+C:\Users\Alex\source\repos\GraphicLab8\GraphicLab8\bin\Debug\GraphicLab8.pdb
+C:\Users\Alex\source\repos\GraphicLab8\GraphicLab8\obj\Debug\GraphicLab8.csprojAssemblyReference.cache
+C:\Users\Alex\source\repos\GraphicLab8\GraphicLab8\obj\Debug\GraphicLab8.Form1.resources
+C:\Users\Alex\source\repos\GraphicLab8\GraphicLab8\obj\Debug\GraphicLab8.Properties.Resources.resources
+C:\Users\Alex\source\repos\GraphicLab8\GraphicLab8\obj\Debug\GraphicLab8.csproj.GenerateResource.cache
+C:\Users\Alex\source\repos\GraphicLab8\GraphicLab8\obj\Debug\GraphicLab8.csproj.CoreCompileInputs.cache
+C:\Users\Alex\source\repos\GraphicLab8\GraphicLab8\obj\Debug\GraphicLab8.exe
+C:\Users\Alex\source\repos\GraphicLab8\GraphicLab8\obj\Debug\GraphicLab8.pdb

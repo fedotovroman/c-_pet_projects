@@ -1,0 +1,3 @@
+Nissan Almera/1,6/220
+Ford Focus/2,0/220
+Lincoln Navigator/6,1/240

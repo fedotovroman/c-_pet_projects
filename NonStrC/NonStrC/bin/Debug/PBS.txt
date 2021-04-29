@@ -1,0 +1,33 @@
+5;Mathematics;Square of figures;A 768;1
+5;Mathematics;Square of figures;P1123;1
+5;Mathematics;Square of figures;P 835;2
+5;Mathematics;Square of figures;E1278;2
+5;Mathematics;Square of figures;D  39;2
+5;Mathematics;Square of figures;P 987;3
+5;Mathematics;Square of figures;A 825;3
+5;Mathematics;Square of figures;K 146;3
+5;Mathematics;Square of figures;K 439;3
+5;Mathematics;Square of figures;S  54;4
+5;Mathematics;Square of figures;P1438;4
+5;Mathematics;Square of figures;S  47;4
+5;Mathematics;Square of figures;A 967;5
+5;Mathematics;Square of figures;A1001;5
+5;Mathematics;Square of figures;S  78;5
+5;Mathematics;Percents;V 306;2
+5;Mathematics;Percents;V 308;4
+7;Geometry;Triangles;S  23;1
+7;Geometry;Triangles;K 200;2
+7;Geometry;Triangles;A 501;2
+7;Geometry;Triangles;A 503;3
+7;Geometry;Triangles;S  33;4
+7;Geometry;Triangles;P 773;4
+7;Geometry;Triangles;S  30;4
+7;Geometry;Triangles;A 504;4
+7;Geometry;Triangles;S  94;5
+7;Geometry;Triangles;À 590;5
+7;Algebra;Equations of the first degree;M 446;1
+7;Algebra;Equations of the first degree;V 435;2
+7;Algebra;Equations of the first degree;V 452;3
+7;Algebra;Equations of the first degree;M 478;4
+7;Algebra;Equations of the first degree;M 521;5
+8;Algebra;Percents;V 398;2

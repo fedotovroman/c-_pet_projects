@@ -1,0 +1,42 @@
+C:\Users\Victor Munerman\Documents\Programming\C#_Pro\Preproc\Preproc\bin\Debug\Preproc.exe.config
+C:\Users\Victor Munerman\Documents\Programming\C#_Pro\Preproc\Preproc\bin\Debug\Preproc.exe
+C:\Users\Victor Munerman\Documents\Programming\C#_Pro\Preproc\Preproc\bin\Debug\Preproc.pdb
+C:\Users\Victor Munerman\Documents\Programming\C#_Pro\Preproc\Preproc\obj\Debug\Preproc.csprojResolveAssemblyReference.cache
+C:\Users\Victor Munerman\Documents\Programming\C#_Pro\Preproc\Preproc\obj\Debug\Preproc.PreprocF.resources
+C:\Users\Victor Munerman\Documents\Programming\C#_Pro\Preproc\Preproc\obj\Debug\Preproc.Properties.Resources.resources
+C:\Users\Victor Munerman\Documents\Programming\C#_Pro\Preproc\Preproc\obj\Debug\Preproc.csproj.GenerateResource.Cache
+C:\Users\Victor Munerman\Documents\Programming\C#_Pro\Preproc\Preproc\obj\Debug\Preproc.exe
+C:\Users\Victor Munerman\Documents\Programming\C#_Pro\Preproc\Preproc\obj\Debug\Preproc.pdb
+G:\Preproc\Preproc\bin\Debug\Preproc.exe.config
+G:\Preproc\Preproc\obj\Debug\Preproc.exe
+G:\Preproc\Preproc\obj\Debug\Preproc.pdb
+C:\Users\Сергей\Desktop\2 курс\ЯиМП\Preproc\Preproc\bin\Debug\Preproc.exe.config
+C:\Users\Сергей\Desktop\2 курс\ЯиМП\Preproc\Preproc\bin\Debug\Preproc.exe
+C:\Users\Сергей\Desktop\2 курс\ЯиМП\Preproc\Preproc\bin\Debug\Preproc.pdb
+C:\Users\Сергей\Desktop\2 курс\ЯиМП\Preproc\Preproc\obj\Debug\Preproc.csprojResolveAssemblyReference.cache
+C:\Users\Сергей\Desktop\2 курс\ЯиМП\Preproc\Preproc\obj\Debug\Preproc.PreprocF.resources
+C:\Users\Сергей\Desktop\2 курс\ЯиМП\Preproc\Preproc\obj\Debug\Preproc.Properties.Resources.resources
+C:\Users\Сергей\Desktop\2 курс\ЯиМП\Preproc\Preproc\obj\Debug\Preproc.csproj.GenerateResource.Cache
+C:\Users\Сергей\Desktop\2 курс\ЯиМП\Preproc\Preproc\obj\Debug\Preproc.csproj.CoreCompileInputs.cache
+C:\Users\Сергей\Desktop\2 курс\ЯиМП\Preproc\Preproc\obj\Debug\Preproc.exe
+C:\Users\Сергей\Desktop\2 курс\ЯиМП\Preproc\Preproc\obj\Debug\Preproc.pdb
+C:\Users\Karina\Desktop\2nd year\LnMP\Preproc\Preproc\bin\Debug\Preproc.exe.config
+C:\Users\Karina\Desktop\2nd year\LnMP\Preproc\Preproc\bin\Debug\Preproc.exe
+C:\Users\Karina\Desktop\2nd year\LnMP\Preproc\Preproc\bin\Debug\Preproc.pdb
+C:\Users\Karina\Desktop\2nd year\LnMP\Preproc\Preproc\obj\Debug\Preproc.csprojResolveAssemblyReference.cache
+C:\Users\Karina\Desktop\2nd year\LnMP\Preproc\Preproc\obj\Debug\Preproc.PreprocF.resources
+C:\Users\Karina\Desktop\2nd year\LnMP\Preproc\Preproc\obj\Debug\Preproc.Properties.Resources.resources
+C:\Users\Karina\Desktop\2nd year\LnMP\Preproc\Preproc\obj\Debug\Preproc.csproj.GenerateResource.Cache
+C:\Users\Karina\Desktop\2nd year\LnMP\Preproc\Preproc\obj\Debug\Preproc.csproj.CoreCompileInputs.cache
+C:\Users\Karina\Desktop\2nd year\LnMP\Preproc\Preproc\obj\Debug\Preproc.exe
+C:\Users\Karina\Desktop\2nd year\LnMP\Preproc\Preproc\obj\Debug\Preproc.pdb
+E:\Users\Alex\Desktop\Мунерман\Preproc\Preproc\bin\Debug\Preproc.exe.config
+E:\Users\Alex\Desktop\Мунерман\Preproc\Preproc\bin\Debug\Preproc.exe
+E:\Users\Alex\Desktop\Мунерман\Preproc\Preproc\bin\Debug\Preproc.pdb
+E:\Users\Alex\Desktop\Мунерман\Preproc\Preproc\obj\Debug\Preproc.csprojAssemblyReference.cache
+E:\Users\Alex\Desktop\Мунерман\Preproc\Preproc\obj\Debug\Preproc.PreprocF.resources
+E:\Users\Alex\Desktop\Мунерман\Preproc\Preproc\obj\Debug\Preproc.Properties.Resources.resources
+E:\Users\Alex\Desktop\Мунерман\Preproc\Preproc\obj\Debug\Preproc.csproj.GenerateResource.cache
+E:\Users\Alex\Desktop\Мунерман\Preproc\Preproc\obj\Debug\Preproc.csproj.CoreCompileInputs.cache
+E:\Users\Alex\Desktop\Мунерман\Preproc\Preproc\obj\Debug\Preproc.exe
+E:\Users\Alex\Desktop\Мунерман\Preproc\Preproc\obj\Debug\Preproc.pdb

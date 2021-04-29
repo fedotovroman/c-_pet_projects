@@ -1,0 +1,26 @@
+C:\Users\Victor Munerman\Documents\Programming\C#_Pro\CshCpp\CshCpp\bin\Release\CshCpp.exe.config
+C:\Users\Victor Munerman\Documents\Programming\C#_Pro\CshCpp\CshCpp\bin\Release\CshCpp.exe
+C:\Users\Victor Munerman\Documents\Programming\C#_Pro\CshCpp\CshCpp\bin\Release\CshCpp.pdb
+C:\Users\Victor Munerman\Documents\Programming\C#_Pro\CshCpp\CshCpp\obj\Release\CshCpp.CshCppF.resources
+C:\Users\Victor Munerman\Documents\Programming\C#_Pro\CshCpp\CshCpp\obj\Release\CshCpp.Properties.Resources.resources
+C:\Users\Victor Munerman\Documents\Programming\C#_Pro\CshCpp\CshCpp\obj\Release\CshCpp.csproj.GenerateResource.Cache
+C:\Users\Victor Munerman\Documents\Programming\C#_Pro\CshCpp\CshCpp\obj\Release\CshCpp.exe
+C:\Users\Victor Munerman\Documents\Programming\C#_Pro\CshCpp\CshCpp\obj\Release\CshCpp.pdb
+C:\Users\Victor Munerman\Documents\Programming\C#_Pro\CppCshOld\CshCpp\CshCpp\bin\Release\CshCpp.exe.config
+C:\Users\Victor Munerman\Documents\Programming\C#_Pro\CppCshOld\CshCpp\CshCpp\obj\Release\CshCpp.exe
+C:\Users\Victor Munerman\Documents\Programming\C#_Pro\CppCshOld\CshCpp\CshCpp\obj\Release\CshCpp.pdb
+C:\Users\Victor Munerman\Documents\Programming\C#_Pro\CppCshOld\CshCpp\CshCpp\bin\Release\CshCpp.exe
+C:\Users\Victor Munerman\Documents\Programming\C#_Pro\CppCshOld\CshCpp\CshCpp\bin\Release\CshCpp.pdb
+C:\Users\Victor Munerman\Documents\Programming\C#_Pro\CppCshOld\CshCpp\CshCpp\obj\Release\CshCpp.CshCppF.resources
+C:\Users\Victor Munerman\Documents\Programming\C#_Pro\CppCshOld\CshCpp\CshCpp\obj\Release\CshCpp.Properties.Resources.resources
+C:\Users\Victor Munerman\Documents\Programming\C#_Pro\CppCshOld\CshCpp\CshCpp\obj\Release\CshCpp.csproj.GenerateResource.Cache
+C:\Users\Сергей\Desktop\2 курс\ЯиМП\Moonerman programmes\CppCshOld\CshCpp\CshCpp\bin\Release\CshCpp.exe.config
+C:\Users\Сергей\Desktop\2 курс\ЯиМП\Moonerman programmes\CppCshOld\CshCpp\CshCpp\bin\Release\CshCpp.exe
+C:\Users\Сергей\Desktop\2 курс\ЯиМП\Moonerman programmes\CppCshOld\CshCpp\CshCpp\bin\Release\CshCpp.pdb
+C:\Users\Сергей\Desktop\2 курс\ЯиМП\Moonerman programmes\CppCshOld\CshCpp\CshCpp\obj\Release\CshCpp.csprojResolveAssemblyReference.cache
+C:\Users\Сергей\Desktop\2 курс\ЯиМП\Moonerman programmes\CppCshOld\CshCpp\CshCpp\obj\Release\CshCpp.CshCppF.resources
+C:\Users\Сергей\Desktop\2 курс\ЯиМП\Moonerman programmes\CppCshOld\CshCpp\CshCpp\obj\Release\CshCpp.Properties.Resources.resources
+C:\Users\Сергей\Desktop\2 курс\ЯиМП\Moonerman programmes\CppCshOld\CshCpp\CshCpp\obj\Release\CshCpp.csproj.GenerateResource.Cache
+C:\Users\Сергей\Desktop\2 курс\ЯиМП\Moonerman programmes\CppCshOld\CshCpp\CshCpp\obj\Release\CshCpp.csproj.CoreCompileInputs.cache
+C:\Users\Сергей\Desktop\2 курс\ЯиМП\Moonerman programmes\CppCshOld\CshCpp\CshCpp\obj\Release\CshCpp.exe
+C:\Users\Сергей\Desktop\2 курс\ЯиМП\Moonerman programmes\CppCshOld\CshCpp\CshCpp\obj\Release\CshCpp.pdb

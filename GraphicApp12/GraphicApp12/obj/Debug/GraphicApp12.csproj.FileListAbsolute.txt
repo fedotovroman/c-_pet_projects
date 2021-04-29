@@ -1,0 +1,10 @@
+C:\Users\Alex\source\repos\GraphicApp12\GraphicApp12\bin\Debug\GraphicApp12.exe.config
+C:\Users\Alex\source\repos\GraphicApp12\GraphicApp12\bin\Debug\GraphicApp12.exe
+C:\Users\Alex\source\repos\GraphicApp12\GraphicApp12\bin\Debug\GraphicApp12.pdb
+C:\Users\Alex\source\repos\GraphicApp12\GraphicApp12\obj\Debug\GraphicApp12.csprojAssemblyReference.cache
+C:\Users\Alex\source\repos\GraphicApp12\GraphicApp12\obj\Debug\GraphicApp12.Form1.resources
+C:\Users\Alex\source\repos\GraphicApp12\GraphicApp12\obj\Debug\GraphicApp12.Properties.Resources.resources
+C:\Users\Alex\source\repos\GraphicApp12\GraphicApp12\obj\Debug\GraphicApp12.csproj.GenerateResource.cache
+C:\Users\Alex\source\repos\GraphicApp12\GraphicApp12\obj\Debug\GraphicApp12.csproj.CoreCompileInputs.cache
+C:\Users\Alex\source\repos\GraphicApp12\GraphicApp12\obj\Debug\GraphicApp12.exe
+C:\Users\Alex\source\repos\GraphicApp12\GraphicApp12\obj\Debug\GraphicApp12.pdb

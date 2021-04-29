@@ -1,0 +1,15 @@
+C:\Users\Alex\source\repos\FinProj\FinProj\bin\Debug\FinProj.exe.config
+C:\Users\Alex\source\repos\FinProj\FinProj\bin\Debug\FinProj.exe
+C:\Users\Alex\source\repos\FinProj\FinProj\bin\Debug\FinProj.pdb
+C:\Users\Alex\source\repos\FinProj\FinProj\obj\Debug\FinProj.csprojAssemblyReference.cache
+C:\Users\Alex\source\repos\FinProj\FinProj\obj\Debug\FinProj.Form1.resources
+C:\Users\Alex\source\repos\FinProj\FinProj\obj\Debug\FinProj.Properties.Resources.resources
+C:\Users\Alex\source\repos\FinProj\FinProj\obj\Debug\FinProj.csproj.GenerateResource.cache
+C:\Users\Alex\source\repos\FinProj\FinProj\obj\Debug\FinProj.csproj.CoreCompileInputs.cache
+C:\Users\Alex\source\repos\FinProj\FinProj\obj\Debug\FinProj.exe
+C:\Users\Alex\source\repos\FinProj\FinProj\obj\Debug\FinProj.pdb
+C:\Users\Alex\source\repos\FinProj\FinProj\obj\Debug\FinProj.Problem1.resources
+C:\Users\Alex\source\repos\FinProj\FinProj\obj\Debug\FinProj.Problem2.resources
+C:\Users\Alex\source\repos\FinProj\FinProj\obj\Debug\FinProj.Problem3.resources
+C:\Users\Alex\source\repos\FinProj\FinProj\obj\Debug\FinProj.Problem4.resources
+C:\Users\Alex\source\repos\FinProj\FinProj\obj\Debug\FinProj.Problem5.resources

@@ -1,0 +1,11 @@
+C:\Users\Alex\source\repos\GraphicApp1\GraphicApp1\bin\Debug\GraphicApp1.exe.config
+C:\Users\Alex\source\repos\GraphicApp1\GraphicApp1\bin\Debug\GraphicApp1.exe
+C:\Users\Alex\source\repos\GraphicApp1\GraphicApp1\bin\Debug\GraphicApp1.pdb
+C:\Users\Alex\source\repos\GraphicApp1\GraphicApp1\obj\Debug\GraphicApp1.csprojAssemblyReference.cache
+C:\Users\Alex\source\repos\GraphicApp1\GraphicApp1\obj\Debug\GraphicApp1.Form1.resources
+C:\Users\Alex\source\repos\GraphicApp1\GraphicApp1\obj\Debug\GraphicApp1.Properties.Resources.resources
+C:\Users\Alex\source\repos\GraphicApp1\GraphicApp1\obj\Debug\GraphicApp1.csproj.GenerateResource.cache
+C:\Users\Alex\source\repos\GraphicApp1\GraphicApp1\obj\Debug\GraphicApp1.csproj.CoreCompileInputs.cache
+C:\Users\Alex\source\repos\GraphicApp1\GraphicApp1\obj\Debug\GraphicApp1.exe
+C:\Users\Alex\source\repos\GraphicApp1\GraphicApp1\obj\Debug\GraphicApp1.pdb
+C:\Users\Alex\source\repos\GraphicApp1\GraphicApp1\obj\Debug\GraphicApp1.Form2.resources

@@ -1,0 +1,11 @@
+C:\Users\Alex\source\repos\MRPO1\MRPO1\bin\Debug\netcoreapp2.1\MRPO1.deps.json
+C:\Users\Alex\source\repos\MRPO1\MRPO1\bin\Debug\netcoreapp2.1\MRPO1.runtimeconfig.json
+C:\Users\Alex\source\repos\MRPO1\MRPO1\bin\Debug\netcoreapp2.1\MRPO1.runtimeconfig.dev.json
+C:\Users\Alex\source\repos\MRPO1\MRPO1\bin\Debug\netcoreapp2.1\MRPO1.dll
+C:\Users\Alex\source\repos\MRPO1\MRPO1\bin\Debug\netcoreapp2.1\MRPO1.pdb
+C:\Users\Alex\source\repos\MRPO1\MRPO1\obj\Debug\netcoreapp2.1\MRPO1.csprojAssemblyReference.cache
+C:\Users\Alex\source\repos\MRPO1\MRPO1\obj\Debug\netcoreapp2.1\MRPO1.csproj.CoreCompileInputs.cache
+C:\Users\Alex\source\repos\MRPO1\MRPO1\obj\Debug\netcoreapp2.1\MRPO1.AssemblyInfoInputs.cache
+C:\Users\Alex\source\repos\MRPO1\MRPO1\obj\Debug\netcoreapp2.1\MRPO1.AssemblyInfo.cs
+C:\Users\Alex\source\repos\MRPO1\MRPO1\obj\Debug\netcoreapp2.1\MRPO1.dll
+C:\Users\Alex\source\repos\MRPO1\MRPO1\obj\Debug\netcoreapp2.1\MRPO1.pdb

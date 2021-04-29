@@ -1,0 +1,29 @@
+C:\Users\Victor Munerman\Documents\Programming\C#_Pro\Sample\Sample\bin\Debug\Sample.exe.config
+C:\Users\Victor Munerman\Documents\Programming\C#_Pro\Sample\Sample\obj\Debug\Sample.csprojResolveAssemblyReference.cache
+C:\Users\Victor Munerman\Documents\Programming\C#_Pro\Sample\Sample\obj\Debug\Sample.SampleF.resources
+C:\Users\Victor Munerman\Documents\Programming\C#_Pro\Sample\Sample\obj\Debug\Sample.Properties.Resources.resources
+C:\Users\Victor Munerman\Documents\Programming\C#_Pro\Sample\Sample\obj\Debug\Sample.csproj.GenerateResource.Cache
+C:\Users\Victor Munerman\Documents\Programming\C#_Pro\Sample\Sample\bin\Debug\Sample.exe
+C:\Users\Victor Munerman\Documents\Programming\C#_Pro\Sample\Sample\bin\Debug\Sample.pdb
+C:\Users\Victor Munerman\Documents\Programming\C#_Pro\Sample\Sample\obj\Debug\Sample.exe
+C:\Users\Victor Munerman\Documents\Programming\C#_Pro\Sample\Sample\obj\Debug\Sample.pdb
+C:\Users\Student\Desktop\All\Мунерман\Sample\Sample\obj\Debug\Sample.csprojResolveAssemblyReference.cache
+C:\Users\Student\Desktop\All\Мунерман\Sample\Sample\obj\Debug\Sample.SampleF.resources
+C:\Users\Student\Desktop\All\Мунерман\Sample\Sample\obj\Debug\Sample.Properties.Resources.resources
+C:\Users\Student\Desktop\All\Мунерман\Sample\Sample\obj\Debug\Sample.csproj.GenerateResource.Cache
+C:\Users\Student\Desktop\All\Мунерман\Sample\Sample\obj\Debug\Sample.csproj.CoreCompileInputs.cache
+C:\Users\Student\Desktop\All\Мунерман\Sample\Sample\obj\Debug\Sample.exe
+C:\Users\Student\Desktop\All\Мунерман\Sample\Sample\obj\Debug\Sample.pdb
+C:\Users\Student\Desktop\All\Мунерман\Sample\Sample\bin\Debug\Sample.exe.config
+C:\Users\Student\Desktop\All\Мунерман\Sample\Sample\bin\Debug\Sample.exe
+C:\Users\Student\Desktop\All\Мунерман\Sample\Sample\bin\Debug\Sample.pdb
+C:\Users\Сергей\Desktop\2 курс\ЯиМП\Sample\Sample\bin\Debug\Sample.exe.config
+C:\Users\Сергей\Desktop\2 курс\ЯиМП\Sample\Sample\bin\Debug\Sample.exe
+C:\Users\Сергей\Desktop\2 курс\ЯиМП\Sample\Sample\bin\Debug\Sample.pdb
+C:\Users\Сергей\Desktop\2 курс\ЯиМП\Sample\Sample\obj\Debug\Sample.csprojResolveAssemblyReference.cache
+C:\Users\Сергей\Desktop\2 курс\ЯиМП\Sample\Sample\obj\Debug\Sample.SampleF.resources
+C:\Users\Сергей\Desktop\2 курс\ЯиМП\Sample\Sample\obj\Debug\Sample.Properties.Resources.resources
+C:\Users\Сергей\Desktop\2 курс\ЯиМП\Sample\Sample\obj\Debug\Sample.csproj.GenerateResource.Cache
+C:\Users\Сергей\Desktop\2 курс\ЯиМП\Sample\Sample\obj\Debug\Sample.csproj.CoreCompileInputs.cache
+C:\Users\Сергей\Desktop\2 курс\ЯиМП\Sample\Sample\obj\Debug\Sample.exe
+C:\Users\Сергей\Desktop\2 курс\ЯиМП\Sample\Sample\obj\Debug\Sample.pdb

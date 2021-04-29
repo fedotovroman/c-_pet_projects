@@ -1,0 +1,14 @@
+﻿Build started 28.12.2016 21:24:47.
+     1>Project "C:\Users\Victor Munerman\Documents\Programming\C#_Pro\CshCpp\CppAP\CppAP.vcxproj" on node 2 (Rebuild target(s)).
+     1>ClCompile:
+         C:\Program Files (x86)\Microsoft Visual Studio 14.0\VC\bin\CL.exe /c /ZI /nologo /W3 /WX- /sdl /Od /Oy- /D _WINDLL /D _MBCS /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Zc:inline /Fo"Debug\\" /Fd"Debug\vc140.pdb" /Gd /TP /analyze- /errorReport:prompt DLLSum.cpp
+         DLLSum.cpp
+       Link:
+         C:\Program Files (x86)\Microsoft Visual Studio 14.0\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"C:\Users\Victor Munerman\Documents\Programming\C#_Pro\CshCpp\Debug\CppAP.dll" /INCREMENTAL /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /Debug /PDB:"C:\Users\Victor Munerman\Documents\Programming\C#_Pro\CshCpp\Debug\CppAP.pdb" /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"C:\Users\Victor Munerman\Documents\Programming\C#_Pro\CshCpp\Debug\CppAP.lib" /MACHINE:X86 /DLL Debug\DLLSum.obj
+            Creating library C:\Users\Victor Munerman\Documents\Programming\C#_Pro\CshCpp\Debug\CppAP.lib and object C:\Users\Victor Munerman\Documents\Programming\C#_Pro\CshCpp\Debug\CppAP.exp
+         CppAP.vcxproj -> C:\Users\Victor Munerman\Documents\Programming\C#_Pro\CshCpp\Debug\CppAP.dll
+     1>Done Building Project "C:\Users\Victor Munerman\Documents\Programming\C#_Pro\CshCpp\CppAP\CppAP.vcxproj" (Rebuild target(s)).
+
+Build succeeded.
+
+Time Elapsed 00:00:00.60

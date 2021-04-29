@@ -1,0 +1,42 @@
+﻿using System;
+using System.Collections.Generic;
+using System.Linq;
+using System.Text;
+using System.Threading.Tasks;
+using System.IO;
+using System.Runtime.InteropServices;
+using System.Windows.Forms;
+
+namespace Sample
+{
+    class SampleC
+    {   
+        public unsafe struct TbfIn
+        {            
+        }
+        public unsafe void QueSel(DataGridView _dgCars)
+        {
+            int i, k; 
+            byte[] wStr; 
+            Encoding enc8 = Encoding.UTF8;               
+            TbCars* bfIn = stackalloc TbfIn[1];
+            byte[] bbfIn = new byte[sizeof(TbfIn)];
+            FileStream ffIn = File.OpenRead(_fn);
+            _dgCars.RowCount = 3;
+            i = 0;
+            while (ffIn.Read(bbfIn, 0, bbfIn.Length)==bbfIn.Length)
+            {        
+                Marshal.Copy(bbfIn, 0, (IntPtr)bfIn, bbfIn.Length);
+                i = i + 1;                                   
+            }
+            fCars.Close();
+        }
+    }
+}
+                //wStr = new byte[30];
+                //for (k = 0; k < 30;k++ )
+                    //wStr[k] = bfIn->#[k];            
+                //_dgCars.Rows[i].Cells[0].Value =enc8.GetString(wStr,0,wStr.Length);       
+                //_dgCars.Rows[i].Cells[1].Value = bfIn->#.ToString();
+                //_dgCars.Rows[i].Cells[2].Value = bfIn->#.ToString();
+                

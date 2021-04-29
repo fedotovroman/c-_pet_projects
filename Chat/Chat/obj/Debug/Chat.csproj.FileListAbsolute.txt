@@ -1,0 +1,29 @@
+C:\Users\Victor Munerman\Documents\Programming\C#_Pro\Chat\Chat\bin\Debug\Chat.exe.config
+C:\Users\Victor Munerman\Documents\Programming\C#_Pro\Chat\Chat\obj\Debug\Chat.csprojResolveAssemblyReference.cache
+C:\Users\Victor Munerman\Documents\Programming\C#_Pro\Chat\Chat\obj\Debug\Chat.Properties.Resources.resources
+C:\Users\Victor Munerman\Documents\Programming\C#_Pro\Chat\Chat\obj\Debug\Chat.csproj.GenerateResource.Cache
+C:\Users\Victor Munerman\Documents\Programming\C#_Pro\Chat\Chat\bin\Debug\Chat.exe
+C:\Users\Victor Munerman\Documents\Programming\C#_Pro\Chat\Chat\bin\Debug\Chat.pdb
+C:\Users\Victor Munerman\Documents\Programming\C#_Pro\Chat\Chat\obj\Debug\Chat.exe
+C:\Users\Victor Munerman\Documents\Programming\C#_Pro\Chat\Chat\obj\Debug\Chat.pdb
+C:\Users\Victor Munerman\Documents\Programming\C#_Pro\Chat\Chat\obj\Debug\Chat.ChatF.resources
+C:\Users\Student\Desktop\All\Мунерман\Chat\Chat\obj\Debug\Chat.csprojResolveAssemblyReference.cache
+C:\Users\Student\Desktop\All\Мунерман\Chat\Chat\obj\Debug\Chat.ChatF.resources
+C:\Users\Student\Desktop\All\Мунерман\Chat\Chat\obj\Debug\Chat.Properties.Resources.resources
+C:\Users\Student\Desktop\All\Мунерман\Chat\Chat\obj\Debug\Chat.csproj.GenerateResource.Cache
+C:\Users\Student\Desktop\All\Мунерман\Chat\Chat\obj\Debug\Chat.csproj.CoreCompileInputs.cache
+C:\Users\Student\Desktop\All\Мунерман\Chat\Chat\obj\Debug\Chat.exe
+C:\Users\Student\Desktop\All\Мунерман\Chat\Chat\obj\Debug\Chat.pdb
+C:\Users\Student\Desktop\All\Мунерман\Chat\Chat\bin\Debug\Chat.exe.config
+C:\Users\Student\Desktop\All\Мунерман\Chat\Chat\bin\Debug\Chat.exe
+C:\Users\Student\Desktop\All\Мунерман\Chat\Chat\bin\Debug\Chat.pdb
+E:\Users\Alex\Desktop\Мунерман\Chat\Chat\bin\Debug\Chat.exe.config
+E:\Users\Alex\Desktop\Мунерман\Chat\Chat\bin\Debug\Chat.exe
+E:\Users\Alex\Desktop\Мунерман\Chat\Chat\bin\Debug\Chat.pdb
+E:\Users\Alex\Desktop\Мунерман\Chat\Chat\obj\Debug\Chat.csprojAssemblyReference.cache
+E:\Users\Alex\Desktop\Мунерман\Chat\Chat\obj\Debug\Chat.ChatF.resources
+E:\Users\Alex\Desktop\Мунерман\Chat\Chat\obj\Debug\Chat.Properties.Resources.resources
+E:\Users\Alex\Desktop\Мунерман\Chat\Chat\obj\Debug\Chat.csproj.GenerateResource.cache
+E:\Users\Alex\Desktop\Мунерман\Chat\Chat\obj\Debug\Chat.csproj.CoreCompileInputs.cache
+E:\Users\Alex\Desktop\Мунерман\Chat\Chat\obj\Debug\Chat.exe
+E:\Users\Alex\Desktop\Мунерман\Chat\Chat\obj\Debug\Chat.pdb

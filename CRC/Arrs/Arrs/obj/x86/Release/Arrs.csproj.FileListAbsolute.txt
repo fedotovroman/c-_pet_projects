@@ -1,0 +1,8 @@
+C:\Users\Victor Munerman\Documents\Programming\C#_Pro\ArrsN\Arrs\Arrs\bin\Release\Arrs.exe
+C:\Users\Victor Munerman\Documents\Programming\C#_Pro\ArrsN\Arrs\Arrs\bin\Release\Arrs.pdb
+C:\Users\Victor Munerman\Documents\Programming\C#_Pro\ArrsN\Arrs\Arrs\obj\x86\Release\Arrs.frmArrs.resources
+C:\Users\Victor Munerman\Documents\Programming\C#_Pro\ArrsN\Arrs\Arrs\obj\x86\Release\Arrs.Properties.Resources.resources
+C:\Users\Victor Munerman\Documents\Programming\C#_Pro\ArrsN\Arrs\Arrs\obj\x86\Release\Arrs.csproj.GenerateResource.Cache
+C:\Users\Victor Munerman\Documents\Programming\C#_Pro\ArrsN\Arrs\Arrs\obj\x86\Release\Arrs.exe
+C:\Users\Victor Munerman\Documents\Programming\C#_Pro\ArrsN\Arrs\Arrs\obj\x86\Release\Arrs.pdb
+C:\Users\Victor Munerman\Documents\Programming\C#_Pro\ArrsN\Arrs\Arrs\obj\x86\Release\Arrs.csprojResolveAssemblyReference.cache

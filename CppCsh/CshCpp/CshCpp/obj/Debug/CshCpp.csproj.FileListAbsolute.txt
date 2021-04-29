@@ -1,0 +1,9 @@
+C:\Users\Victor Munerman\Documents\Programming\C#_Pro\CshCpp\CshCpp\bin\Debug\CshCpp.exe.config
+C:\Users\Victor Munerman\Documents\Programming\C#_Pro\CshCpp\CshCpp\bin\Debug\CshCpp.exe
+C:\Users\Victor Munerman\Documents\Programming\C#_Pro\CshCpp\CshCpp\bin\Debug\CshCpp.pdb
+C:\Users\Victor Munerman\Documents\Programming\C#_Pro\CshCpp\CshCpp\obj\Debug\CshCpp.CshCppF.resources
+C:\Users\Victor Munerman\Documents\Programming\C#_Pro\CshCpp\CshCpp\obj\Debug\CshCpp.Properties.Resources.resources
+C:\Users\Victor Munerman\Documents\Programming\C#_Pro\CshCpp\CshCpp\obj\Debug\CshCpp.csproj.GenerateResource.Cache
+C:\Users\Victor Munerman\Documents\Programming\C#_Pro\CshCpp\CshCpp\obj\Debug\CshCpp.exe
+C:\Users\Victor Munerman\Documents\Programming\C#_Pro\CshCpp\CshCpp\obj\Debug\CshCpp.pdb
+C:\Users\Victor Munerman\Documents\Programming\C#_Pro\CshCpp\CshCpp\obj\Debug\CshCpp.csprojResolveAssemblyReference.cache

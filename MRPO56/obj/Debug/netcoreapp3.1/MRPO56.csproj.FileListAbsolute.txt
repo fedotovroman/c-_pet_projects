@@ -1,0 +1,13 @@
+C:\Users\Student\source\repos\MRPO56\bin\Debug\netcoreapp3.1\MRPO56.exe
+C:\Users\Student\source\repos\MRPO56\bin\Debug\netcoreapp3.1\MRPO56.deps.json
+C:\Users\Student\source\repos\MRPO56\bin\Debug\netcoreapp3.1\MRPO56.runtimeconfig.json
+C:\Users\Student\source\repos\MRPO56\bin\Debug\netcoreapp3.1\MRPO56.runtimeconfig.dev.json
+C:\Users\Student\source\repos\MRPO56\bin\Debug\netcoreapp3.1\MRPO56.dll
+C:\Users\Student\source\repos\MRPO56\bin\Debug\netcoreapp3.1\MRPO56.pdb
+C:\Users\Student\source\repos\MRPO56\obj\Debug\netcoreapp3.1\MRPO56.csprojAssemblyReference.cache
+C:\Users\Student\source\repos\MRPO56\obj\Debug\netcoreapp3.1\MRPO56.AssemblyInfoInputs.cache
+C:\Users\Student\source\repos\MRPO56\obj\Debug\netcoreapp3.1\MRPO56.AssemblyInfo.cs
+C:\Users\Student\source\repos\MRPO56\obj\Debug\netcoreapp3.1\MRPO56.csproj.CoreCompileInputs.cache
+C:\Users\Student\source\repos\MRPO56\obj\Debug\netcoreapp3.1\MRPO56.dll
+C:\Users\Student\source\repos\MRPO56\obj\Debug\netcoreapp3.1\MRPO56.pdb
+C:\Users\Student\source\repos\MRPO56\obj\Debug\netcoreapp3.1\MRPO56.genruntimeconfig.cache

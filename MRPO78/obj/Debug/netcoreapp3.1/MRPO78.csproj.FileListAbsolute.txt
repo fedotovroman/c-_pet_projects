@@ -1,0 +1,13 @@
+C:\Users\Student\source\repos\MRPO78\bin\Debug\netcoreapp3.1\MRPO78.exe
+C:\Users\Student\source\repos\MRPO78\bin\Debug\netcoreapp3.1\MRPO78.deps.json
+C:\Users\Student\source\repos\MRPO78\bin\Debug\netcoreapp3.1\MRPO78.runtimeconfig.json
+C:\Users\Student\source\repos\MRPO78\bin\Debug\netcoreapp3.1\MRPO78.runtimeconfig.dev.json
+C:\Users\Student\source\repos\MRPO78\bin\Debug\netcoreapp3.1\MRPO78.dll
+C:\Users\Student\source\repos\MRPO78\bin\Debug\netcoreapp3.1\MRPO78.pdb
+C:\Users\Student\source\repos\MRPO78\obj\Debug\netcoreapp3.1\MRPO78.csprojAssemblyReference.cache
+C:\Users\Student\source\repos\MRPO78\obj\Debug\netcoreapp3.1\MRPO78.AssemblyInfoInputs.cache
+C:\Users\Student\source\repos\MRPO78\obj\Debug\netcoreapp3.1\MRPO78.AssemblyInfo.cs
+C:\Users\Student\source\repos\MRPO78\obj\Debug\netcoreapp3.1\MRPO78.csproj.CoreCompileInputs.cache
+C:\Users\Student\source\repos\MRPO78\obj\Debug\netcoreapp3.1\MRPO78.dll
+C:\Users\Student\source\repos\MRPO78\obj\Debug\netcoreapp3.1\MRPO78.pdb
+C:\Users\Student\source\repos\MRPO78\obj\Debug\netcoreapp3.1\MRPO78.genruntimeconfig.cache

@@ -1,0 +1,10 @@
+C:\Users\Alex\source\repos\GraphicLab9\GraphicLab9\bin\Debug\GraphicLab9.exe.config
+C:\Users\Alex\source\repos\GraphicLab9\GraphicLab9\bin\Debug\GraphicLab9.exe
+C:\Users\Alex\source\repos\GraphicLab9\GraphicLab9\bin\Debug\GraphicLab9.pdb
+C:\Users\Alex\source\repos\GraphicLab9\GraphicLab9\obj\Debug\GraphicLab9.csprojAssemblyReference.cache
+C:\Users\Alex\source\repos\GraphicLab9\GraphicLab9\obj\Debug\GraphicLab9.Form1.resources
+C:\Users\Alex\source\repos\GraphicLab9\GraphicLab9\obj\Debug\GraphicLab9.Properties.Resources.resources
+C:\Users\Alex\source\repos\GraphicLab9\GraphicLab9\obj\Debug\GraphicLab9.csproj.GenerateResource.cache
+C:\Users\Alex\source\repos\GraphicLab9\GraphicLab9\obj\Debug\GraphicLab9.csproj.CoreCompileInputs.cache
+C:\Users\Alex\source\repos\GraphicLab9\GraphicLab9\obj\Debug\GraphicLab9.exe
+C:\Users\Alex\source\repos\GraphicLab9\GraphicLab9\obj\Debug\GraphicLab9.pdb

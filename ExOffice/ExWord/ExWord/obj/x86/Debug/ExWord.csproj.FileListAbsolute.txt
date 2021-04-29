@@ -1,0 +1,27 @@
+C:\Users\Victor Munerman\Documents\Programming\C#_Pro\ExWord\ExWord\obj\x86\Debug\ExWord.csproj.ResolveComReference.cache
+C:\Users\Victor Munerman\Documents\Programming\C#_Pro\ExWord\ExWord\bin\Debug\ExWord.exe
+C:\Users\Victor Munerman\Documents\Programming\C#_Pro\ExWord\ExWord\bin\Debug\ExWord.pdb
+C:\Users\Victor Munerman\Documents\Programming\C#_Pro\ExWord\ExWord\obj\x86\Debug\ExWord.frmWord.resources
+C:\Users\Victor Munerman\Documents\Programming\C#_Pro\ExWord\ExWord\obj\x86\Debug\ExWord.Properties.Resources.resources
+C:\Users\Victor Munerman\Documents\Programming\C#_Pro\ExWord\ExWord\obj\x86\Debug\ExWord.csproj.GenerateResource.Cache
+C:\Users\Victor Munerman\Documents\Programming\C#_Pro\ExWord\ExWord\obj\x86\Debug\ExWord.exe
+C:\Users\Victor Munerman\Documents\Programming\C#_Pro\ExWord\ExWord\obj\x86\Debug\ExWord.pdb
+C:\Users\Victor Munerman\Documents\Programming\C#_Pro\ExWord\ExWord\obj\x86\Debug\ExWord.csprojResolveAssemblyReference.cache
+C:\Users\Student\Desktop\All\Мунерман\ExOffice\ExWord\ExWord\obj\x86\Debug\ExWord.csprojResolveAssemblyReference.cache
+C:\Users\Student\Desktop\All\Мунерман\ExOffice\ExWord\ExWord\obj\x86\Debug\ExWord.csproj.ResolveComReference.cache
+C:\Users\Student\Desktop\All\Мунерман\ExOffice\ExWord\ExWord\obj\x86\Debug\ExWord.frmWord.resources
+C:\Users\Student\Desktop\All\Мунерман\ExOffice\ExWord\ExWord\obj\x86\Debug\ExWord.Properties.Resources.resources
+C:\Users\Student\Desktop\All\Мунерман\ExOffice\ExWord\ExWord\obj\x86\Debug\ExWord.csproj.GenerateResource.Cache
+C:\Users\Student\Desktop\All\Мунерман\ExOffice\ExWord\ExWord\obj\x86\Debug\ExWord.csproj.CoreCompileInputs.cache
+C:\Users\Student\Desktop\All\Мунерман\ExOffice\ExWord\ExWord\obj\x86\Debug\ExWord.exe
+C:\Users\Student\Desktop\All\Мунерман\ExOffice\ExWord\ExWord\obj\x86\Debug\ExWord.pdb
+C:\Users\Karina\Desktop\2nd year\ExOffice\ExWord\ExWord\bin\Debug\ExWord.exe
+C:\Users\Karina\Desktop\2nd year\ExOffice\ExWord\ExWord\bin\Debug\ExWord.pdb
+C:\Users\Karina\Desktop\2nd year\ExOffice\ExWord\ExWord\obj\x86\Debug\ExWord.csprojResolveAssemblyReference.cache
+C:\Users\Karina\Desktop\2nd year\ExOffice\ExWord\ExWord\obj\x86\Debug\ExWord.csproj.ResolveComReference.cache
+C:\Users\Karina\Desktop\2nd year\ExOffice\ExWord\ExWord\obj\x86\Debug\ExWord.frmWord.resources
+C:\Users\Karina\Desktop\2nd year\ExOffice\ExWord\ExWord\obj\x86\Debug\ExWord.Properties.Resources.resources
+C:\Users\Karina\Desktop\2nd year\ExOffice\ExWord\ExWord\obj\x86\Debug\ExWord.csproj.GenerateResource.Cache
+C:\Users\Karina\Desktop\2nd year\ExOffice\ExWord\ExWord\obj\x86\Debug\ExWord.csproj.CoreCompileInputs.cache
+C:\Users\Karina\Desktop\2nd year\ExOffice\ExWord\ExWord\obj\x86\Debug\ExWord.exe
+C:\Users\Karina\Desktop\2nd year\ExOffice\ExWord\ExWord\obj\x86\Debug\ExWord.pdb

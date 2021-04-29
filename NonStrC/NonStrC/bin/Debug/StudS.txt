@@ -1,0 +1,17 @@
+5;Square of figures;2;B
+5;Square of figures;3;B
+5;Square of figures;3;T
+5;Square of figures;4;M
+5;Square of figures;4;A
+5;Square of figures;5;A
+5;Square of figures;5;T
+7;Triangles;1;Z
+7;Triangles;1;Y
+7;Triangles;1;X
+7;Triangles;2;Y
+7;Triangles;2;Z
+7;Triangles;4;Z
+7;Equations of the first degree;1;X
+7;Equations of the first degree;1;Y
+7;Equations of the first degree;1;Z
+7;Equations of the first degree;3;Y

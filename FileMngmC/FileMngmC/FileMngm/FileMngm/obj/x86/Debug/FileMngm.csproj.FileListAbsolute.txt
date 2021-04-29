@@ -1,0 +1,44 @@
+C:\Documents and Settings\Мунерман\Мои документы\Programming\C#_Pro\FileMngm\FileMngm\FileMngm\bin\Debug\FileMngm.exe
+C:\Documents and Settings\Мунерман\Мои документы\Programming\C#_Pro\FileMngm\FileMngm\FileMngm\bin\Debug\FileMngm.pdb
+C:\Documents and Settings\Мунерман\Мои документы\Programming\C#_Pro\FileMngm\FileMngm\FileMngm\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\Мунерман\Мои документы\Programming\C#_Pro\FileMngm\FileMngm\FileMngm\obj\x86\Debug\FileMngm.Properties.Resources.resources
+C:\Documents and Settings\Мунерман\Мои документы\Programming\C#_Pro\FileMngm\FileMngm\FileMngm\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Documents and Settings\Мунерман\Мои документы\Programming\C#_Pro\FileMngm\FileMngm\FileMngm\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Documents and Settings\Мунерман\Мои документы\Programming\C#_Pro\FileMngm\FileMngm\FileMngm\obj\x86\Debug\FileMngm.exe
+C:\Documents and Settings\Мунерман\Мои документы\Programming\C#_Pro\FileMngm\FileMngm\FileMngm\obj\x86\Debug\FileMngm.pdb
+C:\Documents and Settings\Мунерман\Мои документы\Programming\C#_Pro\FileMngm\FileMngm\FileMngm\obj\x86\Debug\FileMngm.frmFileMngm.resources
+C:\Users\Victor Munerman\Documents\Programming\C#_Pro\FileMngmC\FileMngm\FileMngm\obj\x86\Debug\FileMngm.exe
+C:\Users\Victor Munerman\Documents\Programming\C#_Pro\FileMngmC\FileMngm\FileMngm\obj\x86\Debug\FileMngm.pdb
+C:\Users\Victor Munerman\Documents\Programming\C#_Pro\FileMngmC\FileMngm\FileMngm\bin\Debug\FileMngm.exe
+C:\Users\Victor Munerman\Documents\Programming\C#_Pro\FileMngmC\FileMngm\FileMngm\bin\Debug\FileMngm.pdb
+C:\Users\Victor Munerman\Documents\Programming\C#_Pro\FileMngmC\FileMngm\FileMngm\obj\x86\Debug\FileMngm.csprojResolveAssemblyReference.cache
+C:\Users\Victor Munerman\Documents\Programming\C#_Pro\FileMngmC\FileMngm\FileMngm\obj\x86\Debug\FileMngm.frmFileMngm.resources
+C:\Users\Victor Munerman\Documents\Programming\C#_Pro\FileMngmC\FileMngm\FileMngm\obj\x86\Debug\FileMngm.Properties.Resources.resources
+C:\Users\Victor Munerman\Documents\Programming\C#_Pro\FileMngmC\FileMngm\FileMngm\obj\x86\Debug\FileMngm.csproj.GenerateResource.Cache
+C:\Users\Сергей\Desktop\FileMngmC\FileMngmC\FileMngm\FileMngm\bin\Debug\FileMngm.exe
+C:\Users\Сергей\Desktop\FileMngmC\FileMngmC\FileMngm\FileMngm\bin\Debug\FileMngm.pdb
+C:\Users\Сергей\Desktop\FileMngmC\FileMngmC\FileMngm\FileMngm\obj\x86\Debug\FileMngm.csprojResolveAssemblyReference.cache
+C:\Users\Сергей\Desktop\FileMngmC\FileMngmC\FileMngm\FileMngm\obj\x86\Debug\FileMngm.frmFileMngm.resources
+C:\Users\Сергей\Desktop\FileMngmC\FileMngmC\FileMngm\FileMngm\obj\x86\Debug\FileMngm.Properties.Resources.resources
+C:\Users\Сергей\Desktop\FileMngmC\FileMngmC\FileMngm\FileMngm\obj\x86\Debug\FileMngm.csproj.GenerateResource.Cache
+C:\Users\Сергей\Desktop\FileMngmC\FileMngmC\FileMngm\FileMngm\obj\x86\Debug\FileMngm.csproj.CoreCompileInputs.cache
+C:\Users\Сергей\Desktop\FileMngmC\FileMngmC\FileMngm\FileMngm\obj\x86\Debug\FileMngm.exe
+C:\Users\Сергей\Desktop\FileMngmC\FileMngmC\FileMngm\FileMngm\obj\x86\Debug\FileMngm.pdb
+C:\Users\Сергей\Desktop\2 курс ЯиМП\FileMngmC\FileMngmC\FileMngm\FileMngm\bin\Debug\FileMngm.exe
+C:\Users\Сергей\Desktop\2 курс ЯиМП\FileMngmC\FileMngmC\FileMngm\FileMngm\bin\Debug\FileMngm.pdb
+C:\Users\Сергей\Desktop\2 курс ЯиМП\FileMngmC\FileMngmC\FileMngm\FileMngm\obj\x86\Debug\FileMngm.csprojResolveAssemblyReference.cache
+C:\Users\Сергей\Desktop\2 курс ЯиМП\FileMngmC\FileMngmC\FileMngm\FileMngm\obj\x86\Debug\FileMngm.frmFileMngm.resources
+C:\Users\Сергей\Desktop\2 курс ЯиМП\FileMngmC\FileMngmC\FileMngm\FileMngm\obj\x86\Debug\FileMngm.Properties.Resources.resources
+C:\Users\Сергей\Desktop\2 курс ЯиМП\FileMngmC\FileMngmC\FileMngm\FileMngm\obj\x86\Debug\FileMngm.csproj.GenerateResource.Cache
+C:\Users\Сергей\Desktop\2 курс ЯиМП\FileMngmC\FileMngmC\FileMngm\FileMngm\obj\x86\Debug\FileMngm.csproj.CoreCompileInputs.cache
+C:\Users\Сергей\Desktop\2 курс ЯиМП\FileMngmC\FileMngmC\FileMngm\FileMngm\obj\x86\Debug\FileMngm.exe
+C:\Users\Сергей\Desktop\2 курс ЯиМП\FileMngmC\FileMngmC\FileMngm\FileMngm\obj\x86\Debug\FileMngm.pdb
+E:\Users\Alex\Desktop\Мунерман\FileMngmC\FileMngmC\FileMngm\FileMngm\bin\Debug\FileMngm.exe
+E:\Users\Alex\Desktop\Мунерман\FileMngmC\FileMngmC\FileMngm\FileMngm\bin\Debug\FileMngm.pdb
+E:\Users\Alex\Desktop\Мунерман\FileMngmC\FileMngmC\FileMngm\FileMngm\obj\x86\Debug\FileMngm.csprojAssemblyReference.cache
+E:\Users\Alex\Desktop\Мунерман\FileMngmC\FileMngmC\FileMngm\FileMngm\obj\x86\Debug\FileMngm.frmFileMngm.resources
+E:\Users\Alex\Desktop\Мунерман\FileMngmC\FileMngmC\FileMngm\FileMngm\obj\x86\Debug\FileMngm.Properties.Resources.resources
+E:\Users\Alex\Desktop\Мунерман\FileMngmC\FileMngmC\FileMngm\FileMngm\obj\x86\Debug\FileMngm.csproj.GenerateResource.cache
+E:\Users\Alex\Desktop\Мунерман\FileMngmC\FileMngmC\FileMngm\FileMngm\obj\x86\Debug\FileMngm.csproj.CoreCompileInputs.cache
+E:\Users\Alex\Desktop\Мунерман\FileMngmC\FileMngmC\FileMngm\FileMngm\obj\x86\Debug\FileMngm.exe
+E:\Users\Alex\Desktop\Мунерман\FileMngmC\FileMngmC\FileMngm\FileMngm\obj\x86\Debug\FileMngm.pdb

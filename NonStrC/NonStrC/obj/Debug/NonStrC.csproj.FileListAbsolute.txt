@@ -1,0 +1,20 @@
+C:\Users\Victor Munerman\Documents\Programming\C#_Pro\NonStrC\NonStrC\bin\Debug\NonStrC.exe.config
+C:\Users\Victor Munerman\Documents\Programming\C#_Pro\NonStrC\NonStrC\bin\Debug\NonStrC.exe
+C:\Users\Victor Munerman\Documents\Programming\C#_Pro\NonStrC\NonStrC\bin\Debug\NonStrC.pdb
+C:\Users\Victor Munerman\Documents\Programming\C#_Pro\NonStrC\NonStrC\obj\Debug\NonStrC.csprojResolveAssemblyReference.cache
+C:\Users\Victor Munerman\Documents\Programming\C#_Pro\NonStrC\NonStrC\obj\Debug\NonStrC.NonStrCF.resources
+C:\Users\Victor Munerman\Documents\Programming\C#_Pro\NonStrC\NonStrC\obj\Debug\NonStrC.Properties.Resources.resources
+C:\Users\Victor Munerman\Documents\Programming\C#_Pro\NonStrC\NonStrC\obj\Debug\NonStrC.csproj.GenerateResource.Cache
+C:\Users\Victor Munerman\Documents\Programming\C#_Pro\NonStrC\NonStrC\obj\Debug\NonStrC.csproj.CoreCompileInputs.cache
+C:\Users\Victor Munerman\Documents\Programming\C#_Pro\NonStrC\NonStrC\obj\Debug\NonStrC.exe
+C:\Users\Victor Munerman\Documents\Programming\C#_Pro\NonStrC\NonStrC\obj\Debug\NonStrC.pdb
+E:\Users\Alex\Desktop\Мунерман\NonStrC\NonStrC\bin\Debug\NonStrC.exe.config
+E:\Users\Alex\Desktop\Мунерман\NonStrC\NonStrC\bin\Debug\NonStrC.exe
+E:\Users\Alex\Desktop\Мунерман\NonStrC\NonStrC\bin\Debug\NonStrC.pdb
+E:\Users\Alex\Desktop\Мунерман\NonStrC\NonStrC\obj\Debug\NonStrC.csprojAssemblyReference.cache
+E:\Users\Alex\Desktop\Мунерман\NonStrC\NonStrC\obj\Debug\NonStrC.NonStrCF.resources
+E:\Users\Alex\Desktop\Мунерман\NonStrC\NonStrC\obj\Debug\NonStrC.Properties.Resources.resources
+E:\Users\Alex\Desktop\Мунерман\NonStrC\NonStrC\obj\Debug\NonStrC.csproj.GenerateResource.cache
+E:\Users\Alex\Desktop\Мунерман\NonStrC\NonStrC\obj\Debug\NonStrC.csproj.CoreCompileInputs.cache
+E:\Users\Alex\Desktop\Мунерман\NonStrC\NonStrC\obj\Debug\NonStrC.exe
+E:\Users\Alex\Desktop\Мунерман\NonStrC\NonStrC\obj\Debug\NonStrC.pdb

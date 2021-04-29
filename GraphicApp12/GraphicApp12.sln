@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31005.135
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GraphicApp12", "GraphicApp12\GraphicApp12.csproj", "{739431D8-180E-42C9-993A-B0CE4A77FDCF}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{739431D8-180E-42C9-993A-B0CE4A77FDCF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{739431D8-180E-42C9-993A-B0CE4A77FDCF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{739431D8-180E-42C9-993A-B0CE4A77FDCF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{739431D8-180E-42C9-993A-B0CE4A77FDCF}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {0E5FDEA5-B7B4-4FF8-B064-0DDE6C4821D6}
+	EndGlobalSection
+EndGlobal

@@ -1,0 +1,28 @@
+C:\Users\Victor Munerman\Documents\Programming\C#_Pro\CRC\CRC\bin\Debug\CRC.exe.config
+C:\Users\Victor Munerman\Documents\Programming\C#_Pro\CRC\CRC\bin\Debug\CRC.exe
+C:\Users\Victor Munerman\Documents\Programming\C#_Pro\CRC\CRC\bin\Debug\CRC.pdb
+C:\Users\Victor Munerman\Documents\Programming\C#_Pro\CRC\CRC\obj\Debug\CRC.csprojResolveAssemblyReference.cache
+C:\Users\Victor Munerman\Documents\Programming\C#_Pro\CRC\CRC\obj\Debug\CRC.CRCF.resources
+C:\Users\Victor Munerman\Documents\Programming\C#_Pro\CRC\CRC\obj\Debug\CRC.Properties.Resources.resources
+C:\Users\Victor Munerman\Documents\Programming\C#_Pro\CRC\CRC\obj\Debug\CRC.csproj.GenerateResource.Cache
+C:\Users\Victor Munerman\Documents\Programming\C#_Pro\CRC\CRC\obj\Debug\CRC.exe
+C:\Users\Victor Munerman\Documents\Programming\C#_Pro\CRC\CRC\obj\Debug\CRC.pdb
+F:\CRC\CRC\bin\Debug\CRC.exe.config
+F:\CRC\CRC\obj\Debug\CRC.exe
+F:\CRC\CRC\obj\Debug\CRC.pdb
+F:\CRC\CRC\bin\Debug\CRC.exe
+F:\CRC\CRC\bin\Debug\CRC.pdb
+F:\CRC\CRC\obj\Debug\CRC.csprojResolveAssemblyReference.cache
+F:\CRC\CRC\obj\Debug\CRC.CRCF.resources
+F:\CRC\CRC\obj\Debug\CRC.Properties.Resources.resources
+F:\CRC\CRC\obj\Debug\CRC.csproj.GenerateResource.Cache
+C:\Users\Сергей\Desktop\2 курс ЯиМП\CRC\CRC\bin\Debug\CRC.exe.config
+C:\Users\Сергей\Desktop\2 курс ЯиМП\CRC\CRC\bin\Debug\CRC.exe
+C:\Users\Сергей\Desktop\2 курс ЯиМП\CRC\CRC\bin\Debug\CRC.pdb
+C:\Users\Сергей\Desktop\2 курс ЯиМП\CRC\CRC\obj\Debug\CRC.csprojResolveAssemblyReference.cache
+C:\Users\Сергей\Desktop\2 курс ЯиМП\CRC\CRC\obj\Debug\CRC.CRCF.resources
+C:\Users\Сергей\Desktop\2 курс ЯиМП\CRC\CRC\obj\Debug\CRC.Properties.Resources.resources
+C:\Users\Сергей\Desktop\2 курс ЯиМП\CRC\CRC\obj\Debug\CRC.csproj.GenerateResource.Cache
+C:\Users\Сергей\Desktop\2 курс ЯиМП\CRC\CRC\obj\Debug\CRC.csproj.CoreCompileInputs.cache
+C:\Users\Сергей\Desktop\2 курс ЯиМП\CRC\CRC\obj\Debug\CRC.exe
+C:\Users\Сергей\Desktop\2 курс ЯиМП\CRC\CRC\obj\Debug\CRC.pdb

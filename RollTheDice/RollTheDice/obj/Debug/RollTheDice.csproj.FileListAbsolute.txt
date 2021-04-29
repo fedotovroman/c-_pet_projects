@@ -1,0 +1,10 @@
+C:\Users\Alex\source\repos\RollTheDice\RollTheDice\bin\Debug\RollTheDice.exe.config
+C:\Users\Alex\source\repos\RollTheDice\RollTheDice\bin\Debug\RollTheDice.exe
+C:\Users\Alex\source\repos\RollTheDice\RollTheDice\bin\Debug\RollTheDice.pdb
+C:\Users\Alex\source\repos\RollTheDice\RollTheDice\obj\Debug\RollTheDice.csprojAssemblyReference.cache
+C:\Users\Alex\source\repos\RollTheDice\RollTheDice\obj\Debug\RollTheDice.Form1.resources
+C:\Users\Alex\source\repos\RollTheDice\RollTheDice\obj\Debug\RollTheDice.Properties.Resources.resources
+C:\Users\Alex\source\repos\RollTheDice\RollTheDice\obj\Debug\RollTheDice.csproj.GenerateResource.cache
+C:\Users\Alex\source\repos\RollTheDice\RollTheDice\obj\Debug\RollTheDice.csproj.CoreCompileInputs.cache
+C:\Users\Alex\source\repos\RollTheDice\RollTheDice\obj\Debug\RollTheDice.exe
+C:\Users\Alex\source\repos\RollTheDice\RollTheDice\obj\Debug\RollTheDice.pdb
